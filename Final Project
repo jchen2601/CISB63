@@ -1,0 +1,1 @@
+Importing the lyrics of the band Rush as string. Clean the text of stopword and punctuations. Inspect frequency distribution of the words. Apply word and sentence tokenization to string of lyrics. Apply World Cloud, Named Entity Recognition, and Parts of Speech Tagging on the sentences. Generate lyrics using RNN, and RNN with LSTM. 
